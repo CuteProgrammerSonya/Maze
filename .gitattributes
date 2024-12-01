@@ -2,3 +2,4 @@
 Assets/Animation/*.fbx filter=lfs diff=lfs merge=lfs -text
 Assets/Materials/Ch15_nonPBR.fbm/* filter=lfs diff=lfs merge=lfs -text
 Assets/Materials/**/*.png filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
