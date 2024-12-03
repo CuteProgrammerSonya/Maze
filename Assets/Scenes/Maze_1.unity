@@ -212,24 +212,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &92755113
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 92755110}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b6517f1fe3708b4997c64cc3871710b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  points: []
-  bulletPrefab: {fileID: 2816104954933238349, guid: 0f0800d2ef224224fac14ab488734485, type: 3}
-  shootPoint: {fileID: 0}
-  shootingRange: 10
-  shootingInterval: 2
-  detectionRange: 15
 --- !u!4 &92755114 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 54633e37961ff514b9a48e68f14410f1, type: 3}
@@ -48442,9 +48424,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 54633e37961ff514b9a48e68f14410f1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 92755112}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 54633e37961ff514b9a48e68f14410f1, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 92755113}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 54633e37961ff514b9a48e68f14410f1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 92755116}
